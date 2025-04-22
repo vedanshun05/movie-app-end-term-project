@@ -1,7 +1,7 @@
 # Movie App
 
 ## Description
-Movie App is a web application that allows users to search through thousands of movies and view details such as ratings, release year, and language. The app leverages the [TMDB API](https://www.themoviedb.org/documentation/api) for movie data and uses [Appwrite](https://appwrite.io/) to track trending search terms. It offers an engaging and dynamic user experience with sleek animations and responsive design.
+Movie App is a web application designed to provide users with an intuitive platform to explore movies. Users can search for movies by title, view detailed information such as ratings, release year, and language, and discover trending movies based on popular searches. The app integrates the [TMDB API](https://www.themoviedb.org/documentation/api) for movie data and uses [Appwrite](https://appwrite.io/) to track trending search terms. It features a modern, responsive design with smooth animations for an engaging user experience.
 
 ## Features
 - **Movie Search:** Search for movies by title and view movie details.
